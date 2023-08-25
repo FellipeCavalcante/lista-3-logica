@@ -15,10 +15,10 @@ public class Exer15 {
             if (a == b && b == c) {
                 System.out.println("Triângulo equilátero");
             }
-            if (a==b || b==c || a==c ) {
+            else if (a==b || b==c || a==c ) {
                 System.out.println("Triângulo isóceles");
             }
-            else {
+            else if {a!=b && a!=c b!=c) {
                 System.out.println("Triângulo escaleno");
             }
         }
